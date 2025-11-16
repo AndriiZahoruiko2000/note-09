@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/notes_books_v2/",
+    "build": "vite build --base=/node-09/",
     "preview": "vite preview"
   },
   "devDependencies": {
